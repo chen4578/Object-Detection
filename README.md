@@ -8,7 +8,7 @@ In this project, we utilize YOLOv8 to for detection object detection and classif
 
 The following is the result when the input is an image of an orange.
 
-<p align="center">
+<p>
   <img src="https://github.com/chen4578/Object-Detection/blob/7a7cf9e47559b7c95ed987321fe7596befc224c2/results.jpg" width="400">
 </p>
 

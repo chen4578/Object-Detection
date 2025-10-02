@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, we utilize YOLOv8 to for detection object detection and classification. This is done through two mediums: a static image and live webcam video. For both the image and real-time video, bounding boxes identify the object and provide the confidence level.
+In this project, we utilize YOLOv8 for object detection and classification. This is done through two mediums: a static image and live webcam video. For both the image and real-time video, bounding boxes identify the object and provide the confidence level.
 
 ## Results
 
